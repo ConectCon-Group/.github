@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.imgur.com/Zi9TDDi.png"> <br> <br>
-</div>
+![Logo-Horizontal-para-fundo-azul-marinho](https://user-images.githubusercontent.com/81254200/182213090-3787f992-4fd4-4dd8-b4bd-8b7a7f386814.png)
 
 <!--
 
